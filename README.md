@@ -2,7 +2,7 @@
 - 👀 I’m interested in play football
 - 🌱 I’m currently learning softwear engineering
 - 💞️ I’m looking to collaborate on web developing
-- 📫 How to reach me ...
+- 📫 How to reach me by my email address Am.karimy@gmail.com
 
 <!---
 amkarimy2104/amkarimy2104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
